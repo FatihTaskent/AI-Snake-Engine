@@ -1,0 +1,26 @@
+{
+  "name": "ai-snake-engine",
+  "version": "1.0.0",
+  "description": "Snake engine played by the AI",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatihTaskent/AI-Snake-Engine.git"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "Fatih Taskent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FatihTaskent/AI-Snake-Engine/issues"
+  },
+  "homepage": "https://github.com/FatihTaskent/AI-Snake-Engine#readme",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
