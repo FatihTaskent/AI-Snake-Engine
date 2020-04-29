@@ -3,6 +3,7 @@
     "outDir": "./dist",
     "noImplicitAny": true,
     "strict": true,
+    "strictNullChecks": false,
     "target": "ES5",
     "module": "ESNext",
     "forceConsistentCasingInFileNames": true,
